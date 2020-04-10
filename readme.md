@@ -8,7 +8,7 @@
 |[BERT筆記](https://github.com/gysdnow/NLPWorks/blob/master/BERTForClassification.ipynb)|攜程網飯店評論|[Link](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/ChnSentiCorp_htl_all/intro.ipynb)|
 |[Word2Vec筆記](https://github.com/gysdnow/NLPWorks/blob/master/WordsProcessing.ipynb)|攜程網飯店評論|[Link](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/ChnSentiCorp_htl_all/intro.ipynb)|
 |[京東評論分析](https://github.com/gysdnow/NLPWorks/blob/master/JingDongAnalysis.ipynb)|京東商城使用者評論|[article.csv](https://github.com/gysdnow/NLPWorks/blob/master/article.csv) > 自寫爬蟲|
-|新聞文件檢索|台灣新聞資料|Link|
+|新聞文件檢索|台灣新聞資料<br />Kaggle假新聞分類資料|Link<br /> [Link](https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)|
 
 
 

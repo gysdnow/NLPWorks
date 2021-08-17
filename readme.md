@@ -17,8 +17,4 @@ Colab 連結可以按章節閱讀<br />
 
 ---
 
-# Vue
-[官方文件筆記 [HackMD] ](https://hackmd.io/VQU6FvcLRkOMhLdmp2eeJA?both)
-整理中
----
 
